@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  ArtBookProject
 //
-//  Created by Ebubekir Aykut on 9.09.2021.
+//  Created by Furkan Aykut on 9.09.2021.
 //
 
 import UIKit
